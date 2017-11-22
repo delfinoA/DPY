@@ -1,0 +1,11 @@
+D write on 2017.11.22 21:34
+There several ways that you can try to install python on VS.
+1.Before installing VisualStudio on your computer,click the Python Developing,then the installer
+	will install the components for Python.
+2.If you have a pre-installed VisualStudio,try to start a new project,there is no python project,
+  but you can find that there is an option "Open VisualStudio Installer",click it,then Install the
+  Python components just like above.
+
+Before going:
+	why I learn Python?because I have nothing to do except for working.I have to find something interasting.
+	Python is just a try.
